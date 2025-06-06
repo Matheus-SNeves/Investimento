@@ -1,16 +1,16 @@
-# myapp
+## INVESTIMENTO - JUROS
+Feito no dia 06/06/2025
+### Descrição do projeto
+O Simulador de Investimentos é uma ferramenta prática para quem busca acumular capital visando a compra de bens ou a realização de objetivos financeiros no futuro. Este aplicativo permite que o usuário simule o crescimento do seu dinheiro ao longo do tempo.
 
-A new Flutter project.
+Basta inserir o valor que será investido mensalmente, o número de meses que o investimento será realizado e a taxa de juros mensal esperada. O simulador então calcula e exibe dois resultados importantes: o valor total acumulado sem a incidência de juros (apenas a soma dos aportes) e o valor total com a aplicação de juros compostos. Essa funcionalidade ajuda o usuário a visualizar o poder dos juros compostos e a entender o potencial de crescimento de seus investimentos a longo prazo.
 
-## Getting Started
+### Tecnologias Utilizadas:
+- Framework: Flutter
+- Linguagem de Programação: Dart
 
-This project is a starting point for a Flutter application.
+### Print
+![Financ 0](img.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Como executar: 
