@@ -16,3 +16,9 @@ Basta inserir o valor que será investido mensalmente, o número de meses que o 
 
 
 ### Como executar: 
+- Clone este repositório
+- Abra com VsCode ou Android Studio, com um terminal instale as dependências e execute no emulador ou navegador
+```bash
+flutter pub get
+flutter run
+```
